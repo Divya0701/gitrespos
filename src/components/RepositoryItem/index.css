@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.in {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.li {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background-color: lightslategray;
+}
+.coverImage {
+  width: 50%;
+}
+
+.icon {
+  width: 10%;
+  height: 10%;
+  margin-right: 5px;
+}
+.heading2 {
+  margin-bottom: 0px;
+  font-size: 25px;
+  font-family: 'Roboto';
+}

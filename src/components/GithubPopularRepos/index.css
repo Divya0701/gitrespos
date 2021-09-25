@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.heading {
+  font-family: 'lobster';
+  font-size: 40px;
+}
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.ul {
+  width: 45vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin-top: 0px;
+}
+.ul-container {
+  width: 70vw;
+  display: flex;
+  flex-wrap: wrap;
+}
